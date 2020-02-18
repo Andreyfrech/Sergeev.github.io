@@ -11,5 +11,11 @@
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
     }
+       {
+        "id": 3,
+        "title": "Plan",
+        "description": "План",
+        "preview": "img/class-diagram.png"
+    }
     
 ]
