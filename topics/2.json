@@ -1,13 +1,13 @@
     
 {
-    "title": "План",
+    "title": "* Лабораторная работа №1: Разметка личной страницы, разработка UML диаграммы прецедентов *",
     "items": [
         {
             "type": "text",
             "data": [
                 {
-                    "text": "План работы",
-                    "class": "Plan"
+                    "text": "Идентификатор прецедента",
+                    "class": "md-title"
                 }
             ]
         },
@@ -15,26 +15,109 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Этапы выполнения",
+                    "text": "Лабораторная работа №1/ВКР"
+                }
+            ]
+        },
+               {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Название прецедента",
                     "class": "md-title"
                 }
             ]
         },
         {
-            "type": "list",
+            "type": "text",
             "data": [
-                [{
-                    "text":"Семинары"
-                }],
-                [{
-                    "text": "лекции"
-                }],
-                [{
-                    "text": "Лаб   а"
-                }]
+                {
+                    "text": "Управление отелем"
+                }
+                    ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Контекст",
+                    "class": "md-title"
+                }
             ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Работа отеля"
+                }
+            ]
+        },
+                {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Участники и цели",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/Снимок1.PNG"
+        },
+       
+       
+	{
+            "type": "text",
+            "data": [
+                {
+                    "text": "Основной поток",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+          "type": "image",
+          "data": "img/Снимок2.PNG"
+        },
+	{
+            "type": "text",
+            "data": [
+                {
+                    "text": "Исключения",
+                    "class": "md-title"
+                }
+            ]
+        },
+	     {
+          "type": "image",
+          "data": "img/Снимок3.PNG"
+        },
+	
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма USE Case",
+					"class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Файл диаграммы",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": ""
         }
-    ]
+	    ]
 }
 
 
