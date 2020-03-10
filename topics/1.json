@@ -5,7 +5,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Разработка диаграммы",
+                    "text": "Идентификатор прецедента ",
                     "class": "md-title"
                 }
             ]
@@ -14,11 +14,17 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма создана с помощью "
+                    "text": "Лабораторная работа №1/ВКР"
                 },
+                
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
                 {
-                    "text": "PlantUML",
-                    "link": "https://plantuml.com"
+                    "text": "Название прецедента ",
+                    "class": "md-title"
                 }
             ]
         },
@@ -26,22 +32,68 @@
             "type": "text",
             "data": [
                 {
-                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
+                    "text": "Управление отелем"
+                },
+                
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Контекст ",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Работа отеля"
+                },
+                
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Участники и цели:"
                 }
             ]
         },
         {
             "type": "image",
-            "data": "img/use-case-diagram.png"
+            "data": "https://github.com/Andreyfrech/Sergeev.github.io/blob/master/img/Снимок1.PNG?raw=true"
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Постусловия",
+                    "text": "Основной поток",
                     "class": "md-title"
                 }
             ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/Andreyfrech/Sergeev.github.io/blob/master/img/Снимок2.PNG?raw=true"
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Исключения
+                    вв
+                    ввв",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/Andreyfrech/Sergeev.github.io/blob/master/img/Снимок3.PNG?raw=true"
         },
         {
             "type": "list",
