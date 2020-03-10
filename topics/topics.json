@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "title": "Лабораторные работы",
-        "description": "Лабораторные работы",
+        "title": "Лабораторная работа 1",
+        "description": "Разметка личной страницы, разработка UML Use Case",
         "preview": "img/use-case-diagram.png"
     },
     {
