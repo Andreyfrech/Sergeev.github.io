@@ -1,0 +1,35 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor  yellow
+	ArrowColor Black
+	BorderColor Black
+
+
+}
+
+left to right direction
+
+package APP as "Разработка интегрированной системы управления отелем"{
+usecase A as "Написание диплома"
+usecase B as "Контроль написания диплома"
+usecase C as "Защита диплома"
+}
+
+
+
+
+actor P0 as "Студент"
+actor M0 as "Научный руководитель"
+
+actor N0 as "Приемная коммисия"
+
+
+P0 --(A)
+M0 --(B)
+C --(N0)
+@enduml
