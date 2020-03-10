@@ -16,6 +16,31 @@
         "title": "Plan",
         "description": "План"
        
-    }
+    },
+    {
+        "id": 4,
+        "title": "Семинар 1",
+        "description": "Задания семинара",
+        "preview": "img/С1.PNG"
+    },
+    {
+        "id": 4,
+        "title": "Семинар 2",
+        "description": "Задания семинара",
+        "preview": "img/С2.PNG"
+    },
+    {
+        "id": 4,
+        "title": "Семинар 3",
+        "description": "Задания семинара",
+        "preview": "img/С3.PNG"
+    },
+    {
+        "id": 4,
+        "title": "Семинар 4",
+        "description": "Задания семинара",
+        "preview": "img/С4.PNG"
+    },
+    
     
 ]
