@@ -69,28 +69,6 @@
             "type": "image",
             "data": "img/Снимок1.PNG?raw=true"
         },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Предусловия",
-                    "class": "md-title"
-                }
-            ]
-        },
-        {
-            "type": "list",
-            "data": [
-                [{
-                    "text": "задание от куратора"
-                }],
-	        [{
-		    "text": "план разработки ВКР"
-		}]
-            ]
-        },
-		   
-       
 	{
             "type": "text",
             "data": [
@@ -113,19 +91,9 @@
                 }
             ]
         },
-	{
-            "type": "list",
-            "data": [
-                [{
-                    "text": "Недостаточное время для выполнения работы"
-                }],
-		[{
-		    "text": "Проблемы с подключениям базы данных к средствам Visual Studio"
-		}],
-		[{
-		    "text": "Неправильно написанные запросы к базам данных (незначительные ошибки приводят к значительным затратам времени разработки)"
-		}]
-            ]
+	 {
+          "type": "image",
+          "data": "img/Снимок3.PNG?raw=true"
         },
         {
             "type": "text",
@@ -136,18 +104,63 @@
                 }
             ]
         },
+	    {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Альтернативы",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Временные параметры",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Триггер: преддипломаня практика, наличие плана ВКР",
+                
+                }
+            ]
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Номинальная частота повторения:",
+                 
+                }
+            ]
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Продолжительность: 6 недель   ",
+                   
+                }
+            ]
+	 }
         {
             "type": "text",
             "data": [
                 {
                     "text": "Файл диаграммы",
-                    "link": "https://github.com/egorkazyukanov/egorkazyukanov-page/blob/master/files/UMLdiagram.txt"
+                    "link": "https://github.com/Andreyfrech/Sergeev.github.io/blob/master/files/Use%20case.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data": "img/UMLdiagram.png"
+            "data": "img/Use case.png"
         }
 	    ]
 }
