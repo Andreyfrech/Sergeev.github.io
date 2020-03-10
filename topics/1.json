@@ -139,6 +139,28 @@
                    
                 }
             ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма USE Case",
+					"class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Файл диаграммы",
+                    "link": "https://github.com/Andreyfrech/Sergeev.github.io/blob/master/files/Use%20case.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/use case.png"
         }
         
     ]
