@@ -111,13 +111,13 @@
             "data": [
                 {
                     "text": "Файл диаграммы",
-                    "link": "https://github.com/egorkazyukanov/egorkazyukanov-page/blob/master/files/UMLdiagram.txt"
+                    "link": "https://github.com/Andreyfrech/Sergeev.github.io/blob/master/files/Use%20case.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data": "img/UMLdiagram.png"
+            "data": "img/Use case.png"
         }
 	    ]
 }
